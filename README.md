@@ -26,6 +26,7 @@ https://vivinuthappa.wordpress.com/articles/build-from-source-an-official-releas
 \# echo out > /sys/class/gpio/gpioXXX/direction
 или
 \# echo in > /sys/class/gpio/gpioXXX/direction
+
 Я выполняю следующую команду чтобы настроить пин на выход:
 \# echo out > /sys/class/gpio/gpio132/direction
 
