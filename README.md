@@ -13,22 +13,22 @@ https://vivinuthappa.wordpress.com/articles/build-from-source-an-official-releas
 1) вычислить правильно идентификатор пина. Например, я хочу подёргать ножкой PE4, т.к. у меня к нему подключён светодиод. Для это нужно проделать вычисления по следующей формуле:
 ("позиция буквы в алфавите" - 1) * 32 + "номер пина"
 
-Итого: номер символа "E" = 5 (символ "P" нам не интересен), значит (5 - 1) * 32 + 4 = 4 * 32 + 4 = 132
-Как оказалось меня интересует пин №132
+<i>Итого: номер символа "E" = 5 (символ "P" нам не интересен), значит (5 - 1) * 32 + 4 = 4 * 32 + 4 = 132
+Как оказалось меня интересует пин №132</i>
 
 2) создать ссылку на пин чтобы далее можно было с ним работать:
 \# echo XXX > /sys/class/gpio/export
 
-В моём случае:
-\# echo 132 > /sys/class/gpio/export 
+<i>В моём случае:
+\# echo 132 > /sys/class/gpio/export </i>
 
 3) настроить пин на выход или вход. Для этого нужно выполнить следующие команды:
 \# echo out > /sys/class/gpio/gpioXXX/direction
 или
 \# echo in > /sys/class/gpio/gpioXXX/direction
 
-Я выполняю следующую команду чтобы настроить пин на выход:
-\# echo out > /sys/class/gpio/gpio132/direction
+<i>Я выполняю следующую команду чтобы настроить пин на выход:
+\# echo out > /sys/class/gpio/gpio132/direction</i>
 
 4) Теперь можно включать или выключать напряжение на пине с помощью следующих команд:
 включение:
@@ -36,6 +36,6 @@ https://vivinuthappa.wordpress.com/articles/build-from-source-an-official-releas
 выключение:
 \# echo 0 > /sys/class/gpio/gpioXXX/value
 
-Или в моём случае:
+<i>Или в моём случае:
 \# echo 1 > /sys/class/gpio/gpio132/value
-\# echo 0 > /sys/class/gpio/gpio132/value
+\# echo 0 > /sys/class/gpio/gpio132/value</i>
