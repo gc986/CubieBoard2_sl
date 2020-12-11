@@ -3,6 +3,10 @@
 
 https://vivinuthappa.wordpress.com/articles/build-from-source-an-official-release-of-linaro-toolchain/
 
+Все образы ядра <b>sunxi</b>
+
+https://github.com/linux-sunxi/linux-sunxi/releases
+
 Схема для платы расширения WaveShare DVK521 https://github.com/gc986/CubieBoard2_sl/blob/main/files/DVK521.pdf
 
 
