@@ -1,0 +1,33 @@
+ Is possible to boot system from SD card on Cubieboard. The cpu will try to boot from SD card first. If failed, the CPU will boot from Nand on board. This feature is very useful. We can install Android on Nand for entertainment, and install different Linux Distros on SD card for work/learning.
+Downloads
+
+    cb-a20-lubuntu-desktop-card-v105.img.gz
+    Also we can find lots of other SD card image from community.
+
+Write to SD card
+
+    Linux Platform
+
+  $gzip -d cb-a20-lubuntu-desktop-card-v105.img.gz
+  $sudo dd if=cb-a20-lubuntu-desktop-card-v105.img of=/dev/sdX bs=1M
+  $sync
+
+Please replace the /dev/sdX with your SD card on your system.
+
+    Windows Platform
+
+Use win32diskimager to write the image to SD Card
+Important to Know
+
+    Suggest to use at least 4GB card
+    There are so many fake or poor quality SD card on the market.
+
+Default Passwords
+
+    With this image the HDMI screen will say (switching to 720p briefly and then screen will goto 'display not suitable for output')
+    Find out what IP address was provisioned by your router and you can SSH to the device
+
+   ssh linaro@your-ip-address
+   password is 'linaro'
+   
+
