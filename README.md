@@ -8,7 +8,9 @@ cb2-dvk521-sdcard-lubuntu-lcd v1.0.img - https://disk.yandex.ru/d/TQJMmSi2lAhb6w
 <br><br>
 Версия Linux без поддержки LCD, но с поддержкой HDMI<br>
 cubieez-cb2-card-hdmi-v2.0.img.7z - https://disk.yandex.ru/d/Czq4jsFeBQu68g<br>
-<br><br>
+<br>
+
+Инструкция по установке Linux на SD карту (на английском языке) - https://github.com/gc986/CubieBoard2_sl/blob/main/files/install.txt
 
 <b>Как собрать Linaro для CubieBoard2</b>
 
