@@ -1,13 +1,14 @@
 # CubieBoard2_sl
 
 <b>Готовые Linux образы</b>
-
-Образы Linux и Android для Cubieboard2, с поддержкой платы расширения DVK521 с LCD экраном
-cb2-dvk521-nand-adroid4.2-lcd v1.0.img - https://disk.yandex.ru/d/nhKlchVyhF9D5w
-cb2-dvk521-sdcard-lubuntu-lcd v1.0.img - https://disk.yandex.ru/d/TQJMmSi2lAhb6w
-
-Версия Linux без поддержки LCD, но с поддержкой HDMI
-cubieez-cb2-card-hdmi-v2.0.img.7z - https://disk.yandex.ru/d/Czq4jsFeBQu68g
+<br><br>
+Образы Linux и Android для Cubieboard2, с поддержкой платы расширения DVK521 с LCD экраном<br>
+cb2-dvk521-nand-adroid4.2-lcd v1.0.img - https://disk.yandex.ru/d/nhKlchVyhF9D5w<br>
+cb2-dvk521-sdcard-lubuntu-lcd v1.0.img - https://disk.yandex.ru/d/TQJMmSi2lAhb6w<br>
+<br><br>
+Версия Linux без поддержки LCD, но с поддержкой HDMI<br>
+cubieez-cb2-card-hdmi-v2.0.img.7z - https://disk.yandex.ru/d/Czq4jsFeBQu68g<br>
+<br><br>
 
 <b>Как собрать Linaro для CubieBoard2</b>
 
