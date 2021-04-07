@@ -2,7 +2,7 @@
 
 <b>Готовые Linux образы</b>
 <br><br>
-Образы <b>Linux</b> и <b>Android</b> для <b><i>Cubieboard2</i></b>, с поддержкой платы расширения DVK521 с LCD экраном<br>
+Образы <b>Linux</b> и <b>Android</b> для <b><i>Cubieboard2</i></b>, с поддержкой платы расширения <i>DVK521</i> с <i>LCD</i> экраном<br>
 <a href="https://disk.yandex.ru/d/nhKlchVyhF9D5w">cb2-dvk521-nand-adroid4.2-lcd v1.0.img</a><br>
 <a href="https://disk.yandex.ru/d/TQJMmSi2lAhb6w">cb2-dvk521-sdcard-lubuntu-lcd v1.0.img</a><br>
 <br><br>
