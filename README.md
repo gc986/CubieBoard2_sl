@@ -3,7 +3,7 @@
 <b>Готовые Linux образы</b>
 <br><br>
 Образы Linux и Android для Cubieboard2, с поддержкой платы расширения DVK521 с LCD экраном<br>
-cb2-dvk521-nand-adroid4.2-lcd v1.0.img - https://disk.yandex.ru/d/nhKlchVyhF9D5w<br>
+<a href="https://disk.yandex.ru/d/nhKlchVyhF9D5w">cb2-dvk521-nand-adroid4.2-lcd v1.0.img<br>
 cb2-dvk521-sdcard-lubuntu-lcd v1.0.img - https://disk.yandex.ru/d/TQJMmSi2lAhb6w<br>
 <br><br>
 Версия Linux без поддержки LCD, но с поддержкой HDMI<br>
