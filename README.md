@@ -2,12 +2,12 @@
 
 <b>Готовые Linux образы</b>
 <br><br>
-Образы Linux и Android для Cubieboard2, с поддержкой платы расширения DVK521 с LCD экраном<br>
-<a href="https://disk.yandex.ru/d/nhKlchVyhF9D5w">cb2-dvk521-nand-adroid4.2-lcd v1.0.img<br>
-cb2-dvk521-sdcard-lubuntu-lcd v1.0.img - https://disk.yandex.ru/d/TQJMmSi2lAhb6w<br>
+Образы <b>Linux</b> и <b>Android</b> для <b><i>Cubieboard2</i></b>, с поддержкой платы расширения DVK521 с LCD экраном<br>
+<a href="https://disk.yandex.ru/d/nhKlchVyhF9D5w">cb2-dvk521-nand-adroid4.2-lcd v1.0.img</a><br>
+<a href="https://disk.yandex.ru/d/TQJMmSi2lAhb6w">cb2-dvk521-sdcard-lubuntu-lcd v1.0.img</a><br>
 <br><br>
 Версия Linux без поддержки LCD, но с поддержкой HDMI<br>
-cubieez-cb2-card-hdmi-v2.0.img.7z - https://disk.yandex.ru/d/Czq4jsFeBQu68g<br>
+<a href="https://disk.yandex.ru/d/Czq4jsFeBQu68g">cubieez-cb2-card-hdmi-v2.0.img.7z</a><br>
 <br>
 
 Инструкция по установке Linux на SD карту (на английском языке) - https://github.com/gc986/CubieBoard2_sl/blob/main/files/install.txt
