@@ -6,7 +6,7 @@
 <a href="https://disk.yandex.ru/d/nhKlchVyhF9D5w">cb2-dvk521-nand-adroid4.2-lcd v1.0.img</a><br>
 <a href="https://disk.yandex.ru/d/TQJMmSi2lAhb6w">cb2-dvk521-sdcard-lubuntu-lcd v1.0.img</a><br>
 <br><br>
-Версия Linux без поддержки LCD, но с поддержкой HDMI<br>
+Версия <b>Linux</b> с поддержкой <i>HDMI</i><br>
 <a href="https://disk.yandex.ru/d/Czq4jsFeBQu68g">cubieez-cb2-card-hdmi-v2.0.img.7z</a><br>
 <br>
 
