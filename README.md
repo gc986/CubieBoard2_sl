@@ -12,6 +12,10 @@
 
 Инструкция по установке Linux на SD карту (на английском языке) - https://github.com/gc986/CubieBoard2_sl/blob/main/files/install.txt
 
+
+<a href="https://mega.nz/folder/ZtwxCCJC#AIYHcTqz-ucjuzKnE9qD7A/folder/csxlDJZZ">Репозиторий Cubieboard на MegaUpload (iso, wiki, ...)</a>
+
+
 <b>Как собрать Linaro для CubieBoard2</b>
 
 https://vivinuthappa.wordpress.com/articles/build-from-source-an-official-release-of-linaro-toolchain/
